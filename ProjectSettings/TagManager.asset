@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Gbars
+  - Gbar
+  - Emerald
+  - Sapphire
+  - Ruby
+  - Spikes
+  - Ladder
   layers:
   - Default
   - TransparentFX
