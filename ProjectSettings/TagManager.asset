@@ -11,6 +11,8 @@ TagManager:
   - Ruby
   - Spikes
   - Ladder
+  - Ledge
+  - Rope
   layers:
   - Default
   - TransparentFX
